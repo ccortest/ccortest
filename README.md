@@ -1,8 +1,14 @@
 # Hi there! I'm Camilo Andrés Cortés Torres 👋
 
-### Industrial Process Engineer | Data Science & Automation Specialist
+### Industrial Process Engineer | Exploring Data Science & Cybersecurity
 
-I am an Industrial Process Engineer passionate about transforming industrial and operational data into actionable strategic decisions. With over 5 years of experience in process optimization, I specialize in design, modeling, and data-driven analysis to eliminate bottlenecks, build automated pipelines, and improve systemic efficiency.
+I am an Industrial Process Engineer with a strong interest in technology, currently focusing my professional growth toward Data Science, Data Analysis, and Cybersecurity. I leverage my engineering background to learn how to transform operational data into strategic insights and build secure, automated workflows.
+
+---
+
+### 🚀 About Me
+
+* 📊 **Current Focus:** Actively learning Data Science, exploring machine learning models, and building data analysis projects to transition into the tech industry.
 
 ---
 
