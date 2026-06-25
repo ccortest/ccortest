@@ -1,5 +1,4 @@
-<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/c1aae126-417a-4de9-8bcb-450554d92090" />
-
+<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/5763fd76-05ad-4121-8244-41e3f6a05c9b" />
 # Hi there! I'm Camilo Andrés Cortés Torres 👋
 
 ### Industrial Process Engineer | Exploring Data Science & Cybersecurity
