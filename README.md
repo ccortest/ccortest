@@ -9,12 +9,6 @@ I am an Industrial Process Engineer with a strong interest in technology, curren
 ### 🚀 About Me
 
 * 📊 **Current Focus:** Actively learning Data Science, exploring machine learning models, and building data analysis projects to transition into the tech industry.
-
----
-
-### 🚀 About Me
-
-* 📊 **Current Focus:** Advanced Data Analysis, building machine learning models, and deep learning architectures applied to process optimization.
 * ⚙️ **Process & Automation:** Extensive experience in industrial process modeling (MATLAB), operational metrics (OEE calculation), and automation using modern integration tools (Python, SQL, n8n, Power Automate).
 * 🛡️ **Systems Thinking:** Strong foundation in network analysis (Wireshark) and analytical infrastructure auditing to ensure secure and stable data flows.
 * 🧠 **Continuous Growth:** Constantly bridging the gap between hardware execution, mathematical modeling, and enterprise data analytics.
